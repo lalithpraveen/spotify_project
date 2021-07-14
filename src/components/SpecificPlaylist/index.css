@@ -1,0 +1,73 @@
+.specific-playlist-bg-container {
+  display: flex;
+  background-color: #181818;
+  min-height: 100vh;
+}
+
+.specifiv-playlist-card {
+  margin-top: 24px;
+  margin-left: 32px;
+}
+
+.backarrow-link {
+  text-decoration: none;
+}
+
+.playlist-header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.playlist-image {
+  width: 295px;
+  height: 295px;
+  border-radius: 8px;
+}
+
+.header-details-card {
+  color: #ffffff;
+  padding-top: 154px;
+  margin-left: 24px;
+}
+
+.editor-text {
+  font-family: Assistant;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+
+  letter-spacing: 0px;
+  text-align: left;
+  height: 21px;
+  width: 150px;
+}
+
+.album-name {
+  font-family: Assistant;
+  font-weight: 600;
+  width: 651px;
+  height: 20px;
+  font-size: 40px;
+}
+
+.album-description {
+  font-family: Assistant;
+  font-weight: 700;
+  width: 300px;
+  height: 21px;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+.songs-list-header {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+}

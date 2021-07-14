@@ -1,0 +1,22 @@
+.arrow-container {
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+}
+
+.arrow {
+  width: 24px;
+  height: 24px;
+  margin-top: 15px;
+}
+
+.arrow-back-text {
+  width: 34px;
+  height: 24px;
+  font-family: 'Assistant';
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 4px;
+}

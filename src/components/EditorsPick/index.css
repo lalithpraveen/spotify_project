@@ -1,0 +1,21 @@
+.playlist-title {
+  color: #ffffff;
+  font-family: Assistant;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  height: 32px;
+  width: 250px;
+  left: 130px;
+  top: 96px;
+  margin-bottom: 32px;
+}
+
+.editor-card {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}

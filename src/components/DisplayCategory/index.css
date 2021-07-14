@@ -1,0 +1,43 @@
+.each-category-container {
+  height: 166px;
+  width: 166px;
+  left: 0px;
+  top: 0px;
+  background: #e39c40;
+
+  padding-left: 12px;
+  margin-right: 48px;
+  margin-bottom: 48px;
+  border-radius: 8px;
+}
+
+.category-image {
+  height: 100px;
+  width: 100px;
+  left: 26px;
+  right: -27px;
+  margin-top: 55px;
+  transform: rotate(12.13deg);
+  margin-left: 68px;
+}
+
+.category-link {
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+}
+
+.category-name {
+  font-family: Assistant;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  height: 26px;
+  width: 85px;
+  left: 12px;
+  top: 12px;
+  padding-top: 12px;
+}

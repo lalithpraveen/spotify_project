@@ -1,0 +1,17 @@
+.track-details-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-card {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+}
+
+.each-list-item {
+  padding-left: 30px;
+}
